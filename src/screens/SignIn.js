@@ -66,7 +66,6 @@ const styles = StyleSheet.create({
     position: 'absolute',
   },
   circle: {
-    //zIndex: 1,
     position: 'absolute',
     top: -18,
     left: 80,
